@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Surname_MathTask.h"
+#include "Shulepov_MathTask.h"
 
 using namespace std;
 
